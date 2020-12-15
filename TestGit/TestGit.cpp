@@ -6,6 +6,7 @@
 int main()
 {
     std :: cout  <<  "Hello T World！HAHAHA \ n" ;
+     std :: cout  <<  "Hello The World！HAHAHA \ n" ;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
