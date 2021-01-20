@@ -7,7 +7,6 @@ int main()
 {
     std :: cout  <<  "Hello T World！HAHAHA \ n" ;
      std :: cout  <<  "Hello The World！HAHAHA \ n" ;
-     std::cout << "ローカルリポジトリで変更した場所\ n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
